@@ -1,0 +1,11 @@
+git clone https://github.com/Moez7/ETL_simple_projec.git
+cd ETL_simple_projec
+------------------------------------------------------------------
+touch setup.sh
+vi setup.sh
+chmod +x setup.sh
+./setup.sh
+------------------------------------------------------------------
+python3 -m venv etl_first_project
+source etl_first_project/bin/activate
+------------------------------------------------------------------

@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+
+
+
+etl_first_project/
+__pycache__/
+*.pyc
+data/processed/
